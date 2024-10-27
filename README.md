@@ -1,1 +1,3 @@
-BookBot is my first project!
+# Booknot
+
+A non-OOP-oriented program
